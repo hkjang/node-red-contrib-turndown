@@ -1,7 +1,7 @@
-Turndown NodeRED Node
+Json2md NodeRED Node
 =====================
 
 Install
 -------
 
-`npm install -g node-red-contrib-turndown`
+`npm install -g node-red-contrib-json2md`
